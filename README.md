@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saadisamil
 - 👀 I’m interested in coding
-- 💞️ I’m looking to collaborate on full-stack developer
+- 💞️ I’m looking to be a full-stack developer
  
 <!---
 saadisamil/saadisamil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
